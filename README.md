@@ -1,2 +1,2 @@
-# Jaccard-similarity
-Build Jaccard similarity from scratch
+# cosine-similarity
+Build Cosine similarity from scratch
